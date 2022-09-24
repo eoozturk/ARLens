@@ -1,6 +1,4 @@
-# ARLens
-
- Snapchat AR Lens Prototype:
+# Snapchat AR Lens Prototype
  
  Editor: Lens Studio
  
