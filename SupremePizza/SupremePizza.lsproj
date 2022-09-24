@@ -1,0 +1,2583 @@
+{
+    "lens_id": "",
+    "document_id": "8gMs4eUhMJjQxjtbOGQe",
+    "original_document_id": "5L5Fx27xEiyeeBa1Anjw",
+    "version": "29",
+    "lastChanged": "1664029501687",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "28",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "28",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "BehaviourScript"
+                    ],
+                    [
+                        "Scripts",
+                        "SceneControl"
+                    ],
+                    [
+                        "SupremePizza"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "Green Paper 1"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "Green Paper 2"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "Music"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "Olive 1"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "Olive 2"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "PIZZA_SLICE_ss_selects_supremus-topside"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "Peperoni 1"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "Red Pepper 1"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "SHOW YOUR HAND TEXT"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "ScreaminS_LOGO_banner_Large"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "Show your hand"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "SoScreaminGoodBubble"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "Supreme_3D_front"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "hand new"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "hand palm icon 2"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "hand_gizmos"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Assets",
+                        "say ahhhh"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Font"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Public",
+                        "Font",
+                        "AvenirNextCyr-Heavy"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Support"
+                    ],
+                    [
+                        "SupremePizza",
+                        "Support",
+                        "StudioLib"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Hand Segmentation"
+                    ],
+                    [
+                        "Textures",
+                        "Pattern"
+                    ],
+                    [
+                        "Textures",
+                        "Pattern 2"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1661631587204605:2531243"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1661462708229545:382077",
+                    "1661463433512528:429145",
+                    "1661596385629066:10505",
+                    "1661887437790250:1819558"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1661462778914568:386684",
+                    "name": "Files\/File14.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1661463337708884:420499",
+                    "name": "Files\/File21.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1661463337760841:420506",
+                    "name": "Files\/File24.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1661463337793694:420513",
+                    "name": "Files\/File27.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1661463337804357:420518",
+                    "name": "Files\/File30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1661463337809538:420525",
+                    "name": "Files\/File33.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1661463337826235:420530",
+                    "name": "Files\/File36.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1661463337851642:420537",
+                    "name": "Files\/File39.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1661463337883818:420544",
+                    "name": "Files\/File42.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1661463337895049:420549",
+                    "name": "Files\/File43.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1661463337998884:420560",
+                    "name": "Files\/File46.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1661463338054375:420569",
+                    "name": "Files\/File49.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1661463338835359:420622",
+                    "name": "Files\/File52.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1661463339044943:420639",
+                    "name": "Files\/File55.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1661463339052009:420644",
+                    "name": "Files\/File58.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1661463339063640:420651",
+                    "name": "Files\/File61.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1661463339321345:420670",
+                    "name": "Files\/File64.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1661463339356243:420677",
+                    "name": "Files\/File67.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1661463339379150:420684",
+                    "name": "Files\/File70.ts",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1661598572724909:148067",
+                    "name": "Files\/File87.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1661630674692449:2446446",
+                    "name": "Files\/File91.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1661630674746764:2446462",
+                    "name": "Hand Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1661630931503317:2476747",
+                    "name": "Files\/File97.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1661632624940712:2593934",
+                    "name": "Files\/File101.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1661631587209345:2531301",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1661631587219059:2531426",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1661631587229569:2531559",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1661462708229144:382076",
+                "4": "1661462708229545:382077",
+                "5": "1661462708319161:382100",
+                "6": "1661463433512146:429143",
+                "7": "1661597991315496:109791",
+                "8": "1661629888439635:2387372",
+                "9": "1661631587204605:2531243",
+                "10": "1661631587209242:2531300",
+                "11": "1661631587218950:2531425",
+                "12": "1661631587229460:2531558",
+                "13": "1661633764644644:2670895",
+                "14": "1661890884436671:1992747",
+                "15": "1661890889803988:1994149",
+                "16": "1661890891437355:1995355"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "14",
+                    "v": "Files\/File14.ttf"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.pvr"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.pvr"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.pvr"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.pvr"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.pvr"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.png"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.pvr"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.png"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.pvr"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.png"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.mp3"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.pvr"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.png"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.png"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.pvr"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.png"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.png"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.pvr"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.png"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.png"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.pvr"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.png"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.pvr"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.png"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.png"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.pvr"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.png"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.png"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.pvr"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.png"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.png"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.pvr"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.png"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.pvr"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.png"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.ts"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.pvr"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.pvr"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.pvr"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.pvr"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.pvr"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.pvr"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.pvr"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.pvr"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.pvr"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.pvr"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.pvr"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.pvr"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.pvr"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.pvr"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.pvr"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.pvr"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.js"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.pvr"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.png"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.png"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.pvr"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.pvr"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.png"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.png"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.pvr"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.js"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "26637",
+                        "v": "SupremePizza"
+                    },
+                    {
+                        "k": "26642",
+                        "v": "SupremePizza\/Public"
+                    },
+                    {
+                        "k": "26644",
+                        "v": "SupremePizza\/Public\/Font"
+                    },
+                    {
+                        "k": "26645",
+                        "v": "SupremePizza\/Public\/Font\/AvenirNextCyr-Heavy.ttf"
+                    },
+                    {
+                        "k": "26647",
+                        "v": "SupremePizza\/Public\/Assets"
+                    },
+                    {
+                        "k": "26648",
+                        "v": "SupremePizza\/Public\/Assets\/Olive 2.png"
+                    },
+                    {
+                        "k": "26649",
+                        "v": "SupremePizza\/Public\/Assets\/Olive 1.png"
+                    },
+                    {
+                        "k": "26650",
+                        "v": "SupremePizza\/Public\/Assets\/hand palm icon 2.png"
+                    },
+                    {
+                        "k": "26651",
+                        "v": "SupremePizza\/Public\/Assets\/hand_gizmos.png"
+                    },
+                    {
+                        "k": "26652",
+                        "v": "SupremePizza\/Public\/Assets\/say ahhhh.png"
+                    },
+                    {
+                        "k": "26653",
+                        "v": "SupremePizza\/Public\/Assets\/Show your hand.png"
+                    },
+                    {
+                        "k": "26654",
+                        "v": "SupremePizza\/Public\/Assets\/Green Paper 2.png"
+                    },
+                    {
+                        "k": "26655",
+                        "v": "SupremePizza\/Public\/Assets\/Music.mp3"
+                    },
+                    {
+                        "k": "26656",
+                        "v": "SupremePizza\/Public\/Assets\/Supreme_3D_front.png"
+                    },
+                    {
+                        "k": "26657",
+                        "v": "SupremePizza\/Public\/Assets\/Green Paper 1.png"
+                    },
+                    {
+                        "k": "26658",
+                        "v": "SupremePizza\/Public\/Assets\/Peperoni 1.png"
+                    },
+                    {
+                        "k": "26659",
+                        "v": "SupremePizza\/Public\/Assets\/PIZZA_SLICE_ss_selects_supremus-topside.png"
+                    },
+                    {
+                        "k": "26660",
+                        "v": "SupremePizza\/Public\/Assets\/SoScreaminGoodBubble.png"
+                    },
+                    {
+                        "k": "26661",
+                        "v": "SupremePizza\/Public\/Assets\/hand new.png"
+                    },
+                    {
+                        "k": "26662",
+                        "v": "SupremePizza\/Public\/Assets\/SHOW YOUR HAND TEXT.png"
+                    },
+                    {
+                        "k": "26663",
+                        "v": "SupremePizza\/Public\/Assets\/ScreaminS_LOGO_banner_Large.png"
+                    },
+                    {
+                        "k": "26664",
+                        "v": "SupremePizza\/Public\/Assets\/Red Pepper 1.png"
+                    },
+                    {
+                        "k": "26665",
+                        "v": "SupremePizza\/Support"
+                    },
+                    {
+                        "k": "26666",
+                        "v": "SupremePizza\/Support\/StudioLib.ts"
+                    },
+                    {
+                        "k": "26667",
+                        "v": "Scripts\/BehaviourScript.js"
+                    },
+                    {
+                        "k": "29451",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "29452",
+                        "v": "Textures\/Pattern.png"
+                    },
+                    {
+                        "k": "29454",
+                        "v": "Textures\/Pattern 2.png"
+                    },
+                    {
+                        "k": "29456",
+                        "v": "Scripts\/SceneControl.js"
+                    },
+                    {
+                        "k": "29457",
+                        "v": "Scripts"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "26638",
+                        "v": "70055b1eea4c40b73cc5b420ad3349ba"
+                    },
+                    {
+                        "k": "26639",
+                        "v": "56814dbefc6c60009fe6066406087653"
+                    },
+                    {
+                        "k": "26640",
+                        "v": "2b8a0d9bf7641b99e8ff4fe24824bb60"
+                    },
+                    {
+                        "k": "26641",
+                        "v": "ee755d3a4499900e2412dc9a453b99e8"
+                    },
+                    {
+                        "k": "26645",
+                        "v": "a89f98328c5830b101e450e34263e142"
+                    },
+                    {
+                        "k": "26646",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "26648",
+                        "v": "ac45fdee17e7e54100882ed675b1d9cf"
+                    },
+                    {
+                        "k": "26649",
+                        "v": "cc37307f2e168cb836836dbf956fa144"
+                    },
+                    {
+                        "k": "26650",
+                        "v": "38ce63425cf74b2c533f512ea7929f2b"
+                    },
+                    {
+                        "k": "26651",
+                        "v": "247de04d1517d4c930eb5918e1ff3265"
+                    },
+                    {
+                        "k": "26652",
+                        "v": "df24899cd2eb43f2eb6c0b84c678b4e6"
+                    },
+                    {
+                        "k": "26653",
+                        "v": "e3cf78e4e058d4fcdb6d3a8fd1ca88db"
+                    },
+                    {
+                        "k": "26654",
+                        "v": "3d101a506b4fc541e6c6283a3aa941cb"
+                    },
+                    {
+                        "k": "26655",
+                        "v": "a05c517246e75878c1af1b2c8b887b59"
+                    },
+                    {
+                        "k": "26656",
+                        "v": "cd5a875e7d765da6c66568fcfc22f70b"
+                    },
+                    {
+                        "k": "26657",
+                        "v": "7544668e8821ebd1bfd672a82c8a0a2d"
+                    },
+                    {
+                        "k": "26658",
+                        "v": "3cd10e0b48eb87053bb9a4c304d76eab"
+                    },
+                    {
+                        "k": "26659",
+                        "v": "aed677b26ff3f81b79069d494018e7ab"
+                    },
+                    {
+                        "k": "26660",
+                        "v": "9e18cd79a5811458a371725ea85f336f"
+                    },
+                    {
+                        "k": "26661",
+                        "v": "5435b27af5d74c59c8a8fd2fd0d2c5f6"
+                    },
+                    {
+                        "k": "26662",
+                        "v": "ef8acb3ed7fa5dd60a6076780286d84b"
+                    },
+                    {
+                        "k": "26663",
+                        "v": "afa730343aae4eb33353b58cd86eca21"
+                    },
+                    {
+                        "k": "26664",
+                        "v": "9c64249bd19cd93210ed914cdfc15c42"
+                    },
+                    {
+                        "k": "26666",
+                        "v": "120a23435bd6a440a14a0ef005f056cd"
+                    },
+                    {
+                        "k": "26667",
+                        "v": "ac1a0525e05a7caa179d62dc38f007ff"
+                    },
+                    {
+                        "k": "29450",
+                        "v": "dca90f9b2ca7c0d7100dcd69f9dd1ee6"
+                    },
+                    {
+                        "k": "29452",
+                        "v": "a58af98e9db83789640c08fe78b28dbc"
+                    },
+                    {
+                        "k": "29453",
+                        "v": "eb804f5b383a467410fa5cc1be5e76a0"
+                    },
+                    {
+                        "k": "29454",
+                        "v": "a58af98e9db83789640c08fe78b28dbc"
+                    },
+                    {
+                        "k": "29455",
+                        "v": "3db95ebf9ef0796c90232f6df530411d"
+                    },
+                    {
+                        "k": "29456",
+                        "v": "4470fbdbd532ffd23972bce134f312d2"
+                    },
+                    {
+                        "k": "29458",
+                        "v": "69ee03ef3c60f908570b1853158badbf"
+                    },
+                    {
+                        "k": "29459",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "29461",
+                        "v": "cbe9c8a39fe187dd9a61d16f71a07657"
+                    },
+                    {
+                        "k": "29462",
+                        "v": "560dbe92f54be04b6d14980415eca76b"
+                    },
+                    {
+                        "k": "29463",
+                        "v": "c8cbad50c3d7bff8217fcbc6df747a27"
+                    },
+                    {
+                        "k": "29464",
+                        "v": "7501646ba6ea03286b58f3167cdc716e"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-09-24T17:23:59",
+                        "name": "Public",
+                        "hash": "3939ef7aa86eedde5fce8e01e9dc66ae",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-08-28T00:37:49",
+                                "name": "SupremePizza",
+                                "hash": "71ffebaa440b1928329ef376a1f5b4f8",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-08-28T00:37:49",
+                                        "name": "Public",
+                                        "hash": "91afb6f1a54e75666519af59f7f8a779",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-08-28T00:37:49",
+                                                "name": "Font",
+                                                "hash": "0e01db5a4cf5f33c0edd57fdf4d5ace0",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "AvenirNextCyr-Heavy.ttf",
+                                                        "hash": "a89f98328c5830b101e450e34263e142",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-26T00:26:18",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-08-28T00:37:49",
+                                                "name": "Assets",
+                                                "hash": "a8458315b4e3ff874dccabfcc7a7cbd4",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "Olive 2.png",
+                                                        "hash": "ac45fdee17e7e54100882ed675b1d9cf",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "Olive 1.png",
+                                                        "hash": "cc37307f2e168cb836836dbf956fa144",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "hand palm icon 2.png",
+                                                        "hash": "38ce63425cf74b2c533f512ea7929f2b",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "hand_gizmos.png",
+                                                        "hash": "247de04d1517d4c930eb5918e1ff3265",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "say ahhhh.png",
+                                                        "hash": "df24899cd2eb43f2eb6c0b84c678b4e6",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:22",
+                                                        "name": "Show your hand.png",
+                                                        "hash": "e3cf78e4e058d4fcdb6d3a8fd1ca88db",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "Green Paper 2.png",
+                                                        "hash": "3d101a506b4fc541e6c6283a3aa941cb",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "Music.mp3",
+                                                        "hash": "a05c517246e75878c1af1b2c8b887b59",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:22",
+                                                        "name": "Supreme_3D_front.png",
+                                                        "hash": "cd5a875e7d765da6c66568fcfc22f70b",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "Green Paper 1.png",
+                                                        "hash": "7544668e8821ebd1bfd672a82c8a0a2d",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "Peperoni 1.png",
+                                                        "hash": "3cd10e0b48eb87053bb9a4c304d76eab",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "PIZZA_SLICE_ss_selects_supremus-topside.png",
+                                                        "hash": "aed677b26ff3f81b79069d494018e7ab",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:22",
+                                                        "name": "SoScreaminGoodBubble.png",
+                                                        "hash": "9e18cd79a5811458a371725ea85f336f",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "hand new.png",
+                                                        "hash": "5435b27af5d74c59c8a8fd2fd0d2c5f6",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:22",
+                                                        "name": "SHOW YOUR HAND TEXT.png",
+                                                        "hash": "ef8acb3ed7fa5dd60a6076780286d84b",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "ScreaminS_LOGO_banner_Large.png",
+                                                        "hash": "afa730343aae4eb33353b58cd86eca21",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-08-26T00:35:37",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-07-25T15:51:20",
+                                                        "name": "Red Pepper 1.png",
+                                                        "hash": "9c64249bd19cd93210ed914cdfc15c42",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-26T00:26:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-08-28T00:37:49",
+                                        "name": "Support",
+                                        "hash": "f2b9fd3eef3a526a7b8cc22ca9e63973",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-06-24T01:21:49",
+                                                "name": "StudioLib.ts",
+                                                "hash": "120a23435bd6a440a14a0ef005f056cd",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-26T00:35:39",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-26T00:26:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-08-28T00:37:49",
+                                "name": "Textures",
+                                "hash": "956a836b73a410ad9d8ac76db0c265c5",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-27T23:08:51",
+                                        "name": "Pattern 2.png",
+                                        "hash": "a58af98e9db83789640c08fe78b28dbc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-27T23:04:34",
+                                        "name": "Pattern.png",
+                                        "hash": "a58af98e9db83789640c08fe78b28dbc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-27T23:04:34",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-09-24T17:23:56",
+                                "name": "Scripts",
+                                "hash": "6df60647a0cdf739edcad22dc64a4e7e",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-30T23:31:44",
+                                        "name": "BehaviourScript.js",
+                                        "hash": "ac1a0525e05a7caa179d62dc38f007ff",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-28T00:23:20",
+                                        "name": "SceneControl.js",
+                                        "hash": "4470fbdbd532ffd23972bce134f312d2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-27T23:37:25",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-08-22T14:59:03",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29451",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Pattern",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "41",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1661630674692449:2446446",
+                                "fileId": "91",
+                                "originalId": "92",
+                                "publicId": "29452",
+                                "source": "\/Users\/eoozturk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiogxiPlAyqcUiM\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "a58af98e9db83789640c08fe78b28dbc"
+                                }
+                            },
+                            {
+                                "name": "Hand Segmentation",
+                                "type": "1",
+                                "subtype": "23",
+                                "resourceId": "42",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1661630674746764:2446462",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Pattern 2",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "44",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1661630931503317:2476747",
+                                "fileId": "97",
+                                "originalId": "98",
+                                "publicId": "29454",
+                                "source": "\/Users\/eoozturk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiogxiPlAyqcUiM\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "a58af98e9db83789640c08fe78b28dbc"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "SupremePizza",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26637",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Public",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26642",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Font",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26644",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "AvenirNextCyr-Heavy",
+                                                "type": "13",
+                                                "subtype": "0",
+                                                "resourceId": "17",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661462778914568:386684",
+                                                "fileId": "14",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26645",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Font\/AvenirNextCyr-Heavy.ttf",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Assets",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26647",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Olive 2",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "20",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463337708884:420499",
+                                                "fileId": "21",
+                                                "originalId": "22",
+                                                "publicId": "26648",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/Olive 2.png",
+                                                "additional": {
+                                                    "originHash": "ac45fdee17e7e54100882ed675b1d9cf"
+                                                }
+                                            },
+                                            {
+                                                "name": "Olive 1",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "21",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463337760841:420506",
+                                                "fileId": "24",
+                                                "originalId": "25",
+                                                "publicId": "26649",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/Olive 1.png",
+                                                "additional": {
+                                                    "originHash": "cc37307f2e168cb836836dbf956fa144"
+                                                }
+                                            },
+                                            {
+                                                "name": "hand palm icon 2",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "22",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463337793694:420513",
+                                                "fileId": "27",
+                                                "originalId": "28",
+                                                "publicId": "26650",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/hand palm icon 2.png",
+                                                "additional": {
+                                                    "originHash": "38ce63425cf74b2c533f512ea7929f2b"
+                                                }
+                                            },
+                                            {
+                                                "name": "hand_gizmos",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "23",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463337804357:420518",
+                                                "fileId": "30",
+                                                "originalId": "31",
+                                                "publicId": "26651",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/hand_gizmos.png",
+                                                "additional": {
+                                                    "originHash": "247de04d1517d4c930eb5918e1ff3265"
+                                                }
+                                            },
+                                            {
+                                                "name": "say ahhhh",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "24",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463337809538:420525",
+                                                "fileId": "33",
+                                                "originalId": "34",
+                                                "publicId": "26652",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/say ahhhh.png",
+                                                "additional": {
+                                                    "originHash": "df24899cd2eb43f2eb6c0b84c678b4e6"
+                                                }
+                                            },
+                                            {
+                                                "name": "Show your hand",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "25",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463337826235:420530",
+                                                "fileId": "36",
+                                                "originalId": "37",
+                                                "publicId": "26653",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/Show your hand.png",
+                                                "additional": {
+                                                    "originHash": "e3cf78e4e058d4fcdb6d3a8fd1ca88db"
+                                                }
+                                            },
+                                            {
+                                                "name": "Green Paper 2",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "26",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463337851642:420537",
+                                                "fileId": "39",
+                                                "originalId": "40",
+                                                "publicId": "26654",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/Green Paper 2.png",
+                                                "additional": {
+                                                    "originHash": "3d101a506b4fc541e6c6283a3aa941cb"
+                                                }
+                                            },
+                                            {
+                                                "name": "Music",
+                                                "type": "5",
+                                                "subtype": "0",
+                                                "resourceId": "27",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463337883818:420544",
+                                                "fileId": "42",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26655",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/Music.mp3",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Supreme_3D_front",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "28",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463337895049:420549",
+                                                "fileId": "43",
+                                                "originalId": "44",
+                                                "publicId": "26656",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/Supreme_3D_front.png",
+                                                "additional": {
+                                                    "originHash": "cd5a875e7d765da6c66568fcfc22f70b"
+                                                }
+                                            },
+                                            {
+                                                "name": "Green Paper 1",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "29",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463337998884:420560",
+                                                "fileId": "46",
+                                                "originalId": "47",
+                                                "publicId": "26657",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/Green Paper 1.png",
+                                                "additional": {
+                                                    "originHash": "7544668e8821ebd1bfd672a82c8a0a2d"
+                                                }
+                                            },
+                                            {
+                                                "name": "Peperoni 1",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "30",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463338054375:420569",
+                                                "fileId": "49",
+                                                "originalId": "50",
+                                                "publicId": "26658",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/Peperoni 1.png",
+                                                "additional": {
+                                                    "originHash": "3cd10e0b48eb87053bb9a4c304d76eab"
+                                                }
+                                            },
+                                            {
+                                                "name": "PIZZA_SLICE_ss_selects_supremus-topside",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "31",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463338835359:420622",
+                                                "fileId": "52",
+                                                "originalId": "53",
+                                                "publicId": "26659",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/PIZZA_SLICE_ss_selects_supremus-topside.png",
+                                                "additional": {
+                                                    "originHash": "aed677b26ff3f81b79069d494018e7ab"
+                                                }
+                                            },
+                                            {
+                                                "name": "SoScreaminGoodBubble",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "32",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463339044943:420639",
+                                                "fileId": "55",
+                                                "originalId": "56",
+                                                "publicId": "26660",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/SoScreaminGoodBubble.png",
+                                                "additional": {
+                                                    "originHash": "9e18cd79a5811458a371725ea85f336f"
+                                                }
+                                            },
+                                            {
+                                                "name": "hand new",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "33",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463339052009:420644",
+                                                "fileId": "58",
+                                                "originalId": "59",
+                                                "publicId": "26661",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/hand new.png",
+                                                "additional": {
+                                                    "originHash": "5435b27af5d74c59c8a8fd2fd0d2c5f6"
+                                                }
+                                            },
+                                            {
+                                                "name": "SHOW YOUR HAND TEXT",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "34",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463339063640:420651",
+                                                "fileId": "61",
+                                                "originalId": "62",
+                                                "publicId": "26662",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/SHOW YOUR HAND TEXT.png",
+                                                "additional": {
+                                                    "originHash": "ef8acb3ed7fa5dd60a6076780286d84b"
+                                                }
+                                            },
+                                            {
+                                                "name": "ScreaminS_LOGO_banner_Large",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "35",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463339321345:420670",
+                                                "fileId": "64",
+                                                "originalId": "65",
+                                                "publicId": "26663",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/ScreaminS_LOGO_banner_Large.png",
+                                                "additional": {
+                                                    "originHash": "afa730343aae4eb33353b58cd86eca21"
+                                                }
+                                            },
+                                            {
+                                                "name": "Red Pepper 1",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "36",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1661463339356243:420677",
+                                                "fileId": "67",
+                                                "originalId": "68",
+                                                "publicId": "26664",
+                                                "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Public\/Assets\/Red Pepper 1.png",
+                                                "additional": {
+                                                    "originHash": "9c64249bd19cd93210ed914cdfc15c42"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Support",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26665",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "StudioLib",
+                                        "type": "7",
+                                        "subtype": "0",
+                                        "resourceId": "37",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1661463339379150:420684",
+                                        "fileId": "70",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26666",
+                                        "source": "\/Users\/eoozturk\/Downloads\/SupremePizza\/Support\/StudioLib.d.ts",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29457",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "SceneControl",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "45",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1661632624940712:2593934",
+                                "fileId": "101",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29456",
+                                "source": "\/Users\/eoozturk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiogxiPlAyqcUiM\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "BehaviourScript",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "38",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1661598572724909:148067",
+                                "fileId": "87",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26667",
+                                "source": "\/Users\/eoozturk\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiohWIRnUXXWiXV\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1661463337708884:420499",
+                    "v": {
+                        "infos": {
+                            "originalSize": "371377",
+                            "compressedSize": "102277",
+                            "originalRAM": "4000000",
+                            "compressedRAM": "500000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "23",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "ac45fdee17e7e54100882ed675b1d9cf",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "71"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463337760841:420506",
+                    "v": {
+                        "infos": {
+                            "originalSize": "361615",
+                            "compressedSize": "100106",
+                            "originalRAM": "4000000",
+                            "compressedRAM": "500000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "26",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "cc37307f2e168cb836836dbf956fa144",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "72"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463337793694:420513",
+                    "v": {
+                        "infos": {
+                            "originalSize": "42160",
+                            "compressedSize": "33463",
+                            "originalRAM": "1960000",
+                            "compressedRAM": "245000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "29",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "38ce63425cf74b2c533f512ea7929f2b",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "73"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463337804357:420518",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3442",
+                            "compressedSize": "1504",
+                            "originalRAM": "65536",
+                            "compressedRAM": "8192",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "32",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "247de04d1517d4c930eb5918e1ff3265",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "74"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463337809538:420525",
+                    "v": {
+                        "infos": {
+                            "originalSize": "38865",
+                            "compressedSize": "17238",
+                            "originalRAM": "4000000",
+                            "compressedRAM": "500000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "35",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "df24899cd2eb43f2eb6c0b84c678b4e6",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "75"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463337826235:420530",
+                    "v": {
+                        "infos": {
+                            "originalSize": "103304",
+                            "compressedSize": "46323",
+                            "originalRAM": "4000000",
+                            "compressedRAM": "500000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "38",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "e3cf78e4e058d4fcdb6d3a8fd1ca88db",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "76"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463337851642:420537",
+                    "v": {
+                        "infos": {
+                            "originalSize": "377982",
+                            "compressedSize": "92660",
+                            "originalRAM": "4000000",
+                            "compressedRAM": "500000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "41",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3d101a506b4fc541e6c6283a3aa941cb",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "77"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463337895049:420549",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1822684",
+                            "compressedSize": "381164",
+                            "originalRAM": "4152000",
+                            "compressedRAM": "520000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "45",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "cd5a875e7d765da6c66568fcfc22f70b",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "78"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463337998884:420560",
+                    "v": {
+                        "infos": {
+                            "originalSize": "629264",
+                            "compressedSize": "174861",
+                            "originalRAM": "4000000",
+                            "compressedRAM": "500000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "48",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "7544668e8821ebd1bfd672a82c8a0a2d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "79"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463338054375:420569",
+                    "v": {
+                        "infos": {
+                            "originalSize": "906672",
+                            "compressedSize": "261070",
+                            "originalRAM": "4000000",
+                            "compressedRAM": "500000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "51",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3cd10e0b48eb87053bb9a4c304d76eab",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "80"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463338835359:420622",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2440287",
+                            "compressedSize": "594723",
+                            "originalRAM": "9125888",
+                            "compressedRAM": "1142784",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "54",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "f48ace6ddfb5f9c61b0a6325a86fa10d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "81"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463339044943:420639",
+                    "v": {
+                        "infos": {
+                            "originalSize": "40079",
+                            "compressedSize": "27647",
+                            "originalRAM": "659020",
+                            "compressedRAM": "83200",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "57",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "9e18cd79a5811458a371725ea85f336f",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "82"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463339052009:420644",
+                    "v": {
+                        "infos": {
+                            "originalSize": "61995",
+                            "compressedSize": "25486",
+                            "originalRAM": "1960000",
+                            "compressedRAM": "245000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "60",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5435b27af5d74c59c8a8fd2fd0d2c5f6",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "83"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463339063640:420651",
+                    "v": {
+                        "infos": {
+                            "originalSize": "98595",
+                            "compressedSize": "42959",
+                            "originalRAM": "369264",
+                            "compressedRAM": "46472",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "63",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "ef8acb3ed7fa5dd60a6076780286d84b",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "84"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463339321345:420670",
+                    "v": {
+                        "infos": {
+                            "originalSize": "375994",
+                            "compressedSize": "152538",
+                            "originalRAM": "7471104",
+                            "compressedRAM": "933888",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "66",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "cd1f4901b7492acd772e3b30dd53d1fa",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "85"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661463339356243:420677",
+                    "v": {
+                        "infos": {
+                            "originalSize": "191316",
+                            "compressedSize": "47548",
+                            "originalRAM": "4000000",
+                            "compressedRAM": "500000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "69",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "9c64249bd19cd93210ed914cdfc15c42",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "86"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661630674692449:2446446",
+                    "v": {
+                        "infos": {
+                            "originalSize": "39296",
+                            "compressedSize": "66337",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "93",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a58af98e9db83789640c08fe78b28dbc",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "94"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1661630931503317:2476747",
+                    "v": {
+                        "infos": {
+                            "originalSize": "39296",
+                            "compressedSize": "66337",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "99",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a58af98e9db83789640c08fe78b28dbc",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "100"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetImportController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.28.0"
+}
